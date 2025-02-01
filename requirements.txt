@@ -3,3 +3,4 @@ crewai
 groq
 python-dotenv
 pyperclip
+chromadb==0.4.24
